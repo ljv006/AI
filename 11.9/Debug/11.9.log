@@ -1,0 +1,49 @@
+﻿生成启动时间为 2015/11/11 10:05:09。
+     1>项目“C:\Users\嘉伟\documents\visual studio 2013\Projects\11.9\11.9\11.9.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(187): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(181) : 忽略“i”的定义
+                 c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(179) : 使用“i”的定义
+     1>c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(189): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(181) : 忽略“i”的定义
+                 c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(179) : 使用“i”的定义
+     1>c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(193): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(181) : 忽略“i”的定义
+                 c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(179) : 使用“i”的定义
+     1>c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(212): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(198) : 忽略“i”的定义
+                 c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(179) : 使用“i”的定义
+     1>c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(213): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(198) : 忽略“i”的定义
+                 c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(179) : 使用“i”的定义
+     1>c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(214): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(198) : 忽略“i”的定义
+                 c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(179) : 使用“i”的定义
+     1>c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(215): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(198) : 忽略“i”的定义
+                 c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(179) : 使用“i”的定义
+     1>c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(219): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(198) : 忽略“i”的定义
+                 c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(179) : 使用“i”的定义
+     1>c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(222): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(198) : 忽略“i”的定义
+                 c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(179) : 使用“i”的定义
+     1>c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(223): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(198) : 忽略“i”的定义
+                 c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(179) : 使用“i”的定义
+     1>c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(237): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(198) : 忽略“i”的定义
+                 c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(179) : 使用“i”的定义
+     1>c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(238): warning C4258: “i”: 忽略 For 循环中的定义；使用封闭范围中的定义
+                 c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(198) : 忽略“i”的定义
+                 c:\users\嘉伟\documents\visual studio 2013\projects\11.9\11.9\源.cpp(179) : 使用“i”的定义
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\嘉伟\documents\visual studio 2013\Projects\11.9\Debug\11.9.exe" /INCREMENTAL /NOLOGO opencv_ml249d.lib opencv_calib3d249d.lib opencv_contrib249d.lib opencv_core249d.lib opencv_features2d249d.lib opencv_flann249d.lib opencv_gpu249d.lib opencv_highgui249d.lib opencv_imgproc249d.lib opencv_legacy249d.lib opencv_objdetect249d.lib opencv_ts249d.lib opencv_video249d.lib opencv_nonfree249d.lib opencv_ocl249d.lib opencv_photo249d.lib opencv_stitching249d.lib opencv_superres249d.lib opencv_videostab249d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\嘉伟\documents\visual studio 2013\Projects\11.9\Debug\11.9.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\嘉伟\documents\visual studio 2013\Projects\11.9\Debug\11.9.lib" /MACHINE:X86 "Debug\源.obj"
+         11.9.vcxproj -> C:\Users\嘉伟\documents\visual studio 2013\Projects\11.9\Debug\11.9.exe
+     1>已完成生成项目“C:\Users\嘉伟\documents\visual studio 2013\Projects\11.9\11.9\11.9.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.01
